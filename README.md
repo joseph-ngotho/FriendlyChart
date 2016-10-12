@@ -1,0 +1,2 @@
+# FriendlyChart
+simple chart app
